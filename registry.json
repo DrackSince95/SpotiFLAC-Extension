@@ -173,9 +173,9 @@
       "min_app_version": "4.5.0"
     },
     ```
-    `"version": "1.0.0",`,
-    `"description": "Spotify extension",`,
-    '"download_url": "https://raw.githubusercontent.com/DrackSince95/SpotiFLAC-Extension/main/extensions/spotify-web.spotiflac-ext",
+    "version": "1.0.0",`,
+    "description": "Spotify extension",`,
+    "download_url": "https://raw.githubusercontent.com/DrackSince95/SpotiFLAC-Extension/main/extensions/spotify-web.spotiflac-ext",
     "category": "download",
     "tags" [
     "Spotify web",
